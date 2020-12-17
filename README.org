@@ -1,1 +1,26 @@
-* Heading
+* Stuff i use and endorse
+*Distro*: [[https://guix.gnu.org/][GuixSD]]
+
+*WM*: [[https://xmonad.org/][XMonad]]
+
+*Editor (and therapist)*: [[https://github.com/hlissner/doom-emacs][doom emacs]] on
+[[http://akrl.sdf.org/gccemacs.html][Emacs Native Comp]]
+
+*Scripting*: [[https://www.gnu.org/software/guile/][GNU Guile]]
+
+*Keyboard*: [[https://ergodox-ez.com/][Ergodox EZ (stick with the EZ unless you do a custom dactyl folks)]]
+
+*Utilities*: XDG-Utils replacement: [[https://github.com/chmln/handlr][handlr]] (I have a package definition for guix, but i haven't had time to make a PR yet, send a mail if you need it)
+
+* Recommended readings
+[[https://fsf.org][fsf]]
+
+[[https://suckless.org/philosophy/][suckless]]
+
+[[http://harmful.cat-v.org/][harmfull stuff]]
+
+[[http://www.catb.org/~esr/writings/][Eric S. Raymond]]
+
+[[http://www.paulgraham.com/lies.html][Paul Graham]]
+
+[[https://ambrevar.xyz/guix-advance/][Ambrevar]]
