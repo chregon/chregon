@@ -1,26 +1,25 @@
-* Stuff i use and endorse
-*Distro*: [[https://guix.gnu.org/][GuixSD]]
+* Stuff i use
++ *Distro*: [[https://guix.gnu.org/][GuixSD]]
++ *WM*: [[https://xmonad.org/][XMonad]]
++ *Editor (and therapist)*: [[https://github.com/hlissner/doom-emacs][doom emacs]] on [[http://akrl.sdf.org/gccemacs.html][Emacs Native Comp]]
++ *Scripting*: [[https://www.gnu.org/software/guile/][GNU Guile]]
++ *Keyboard*: [[https://ergodox-ez.com/][Ergodox EZ (stick with the EZ unless you do a custom dactyl folks)]]
++ *Utilities*: 
+  + XDG-Utils replacement: [[https://github.com/chmln/handlr][handlr]] (I have a package definition for guix, but i haven't had time to make a PR yet, send a mail if you need it)
 
-*WM*: [[https://xmonad.org/][XMonad]]
+* Recommended reading
+Start with Paul,
++ [[http://www.paulgraham.com/lies.html][Paul Graham: Lies we tell kids]]
++ [[http://www.paulgraham.com/think.html][Paul Graham: How to think]]
++ [[https://fsf.org][Free Software Foundation: Homepage]]
++ [[https://stallman.org/][Richard M. Stallman: Homepage]]
++ [[https://suckless.org/philosophy/][Suckless: Philosophy]]
++ [[http://harmful.cat-v.org/][cat-v: Harmfull stuff]]
++ [[https://ambrevar.xyz/guix-advance/][Ambrevar: Guix]]
 
-*Editor (and therapist)*: [[https://github.com/hlissner/doom-emacs][doom emacs]] on
-[[http://akrl.sdf.org/gccemacs.html][Emacs Native Comp]]
-
-*Scripting*: [[https://www.gnu.org/software/guile/][GNU Guile]]
-
-*Keyboard*: [[https://ergodox-ez.com/][Ergodox EZ (stick with the EZ unless you do a custom dactyl folks)]]
-
-*Utilities*: XDG-Utils replacement: [[https://github.com/chmln/handlr][handlr]] (I have a package definition for guix, but i haven't had time to make a PR yet, send a mail if you need it)
-
-* Recommended readings
-[[https://fsf.org][fsf]]
-
-[[https://suckless.org/philosophy/][suckless]]
-
-[[http://harmful.cat-v.org/][harmfull stuff]]
-
-[[http://www.catb.org/~esr/writings/][Eric S. Raymond]]
-
-[[http://www.paulgraham.com/lies.html][Paul Graham]]
-
-[[https://ambrevar.xyz/guix-advance/][Ambrevar]]
+*** Eric S. Raymond
+WARNING/DISCLAIMER: Eric has a blunt personality, i don't nescesarrily care for the most of his "hottakes".
+Therefore one might need some helf finding the "nuggets of gold" with Raymond. I present a sample here.
++ [[http://www.catb.org/~esr/faqs/smart-questions.html][How to ask questions]]
++ [[http://www.catb.org/jargon/][Jargon file]]
++ [[https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/][Unix and Internet Fundamentals]]
