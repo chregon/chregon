@@ -5,7 +5,7 @@
 + *Scripting*: [[https://www.gnu.org/software/guile/][GNU Guile]]
 + *Keyboard*: [[https://ergodox-ez.com/][Ergodox EZ (stick with the EZ unless you do a custom dactyl folks)]]
 + *Utilities*: 
-  + XDG-Utils replacement: [[https://github.com/chmln/handlr][handlr]] (I have a package definition for guix, but i haven't had time to make a PR yet, send a mail if you need it)
+  + XDG-Utils replacement: [[https://github.com/chmln/handlr][handlr]] (I have a package definition for guix, but i haven't had time to make a PR/Patch yet, send a mail if you need it)
 
 * Recommended reading
 Start with Paul,
