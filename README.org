@@ -1,3 +1,3 @@
 - About me :: I math and software.
-- Url :: [[www.cesc.xyz]].
+- Url :: [[http://www.cesc.xyz]].
 - Free Software :: Is nice.
